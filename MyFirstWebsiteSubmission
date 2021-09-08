@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>MyFirstWebsite</title>
+</head>
+<header>
+<h1>Jesse Jackson</h1>
+<nav>
+	<ol>
+		<li><a href="FirstPage.html"><"One""></a></li><li><a href="SecondPage.html">"Two""></a></li><li><a href="ThirdPage.html"><"Three""></a></li><li><a href="ContactPage.html"><"Contact Page"></a></li></ol>
+</nav>
+</header>
+<body>	
+<section>
+<h2>Favorite Foods</h2>
+<ul>
+<li>Peach Cobbler</li>
+<li>BBQ Ribs</li>
+<li>Fried Shrimp</li>
+<li>Fried Okra</li>
+</ul>
+</section>
+<section>
+<h2>Achievements</h2>
+<h4>Progress in this course (100%)</h4><progress max="100" value="100"></progress>
+<h4>Progress in the Specialization capstone (20%)</h4><progress max="100" value="20"></progress>
+<h4>Progress in life goals (45%)</h4><progress max="100" value="45"></progress>
+</section>
+<section>
+<h2>More about me</h2>
+<details>
+<summary><h4>My Childhood</h4></summary>
+I grew up in south Alabama before moving to Missouri when I was 12. My family moved many times.
+</details>
+</section>
+<footer>
+<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="web design logo"><p>This page was created by Jesse Jackson & Colleen van Lent. To learn more about web design, visit <a href="https://www.intro-webdesign.com">Intro to Web Design.</a></p>
+</footer>
+</body>
+</html>
